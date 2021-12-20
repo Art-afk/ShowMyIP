@@ -1,0 +1,9 @@
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\bin\Release\ShowMyIP.exe.config
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\bin\Release\ShowMyIP.exe
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\bin\Release\ShowMyIP.pdb
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.Form1.resources
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.Properties.Resources.resources
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.csproj.GenerateResource.Cache
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.exe
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.pdb
+c:\visual studio 2015\Projects\ShowMyIP\ShowMyIP\obj\Release\ShowMyIP.csprojResolveAssemblyReference.cache
